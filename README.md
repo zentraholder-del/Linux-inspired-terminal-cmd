@@ -76,7 +76,3 @@ I wanted a terminal that looked good, felt responsive, and didn't require runnin
 ## Disclaimer
 
 This is a hobby project made for fun and learning. It's not meant to replace production terminals like Windows Terminal, PowerShell, or ConEmu. Expect bugs, missing features, and occasional weirdness!
-
-## License
-
-[Your license here]
